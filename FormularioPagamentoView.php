@@ -21,7 +21,7 @@
 
         <form name="Formulário" method="POST" action="FormularioPagamentoController.php">
 
-            <legend>Informações Pessoais</legend>
+            <legend>juntos e shalow now</legend>
             <br>
             
                 <div class="form-group">
